@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<title>Super Web App</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>🚀 My Super Web App</h1>
+
+<!-- DARK MODE -->
+<button onclick="toggleMode()">🌙 Dark Mode</button>
+
+<hr>
+
+<!-- COUNTER -->
+<h2>Counter</h2>
+<h3 id="count">0</h3>
+
+<button onclick="increase()">+</button>
+<button onclick="decrease()">-</button>
+<button onclick="reset()">Reset</button>
+
+<hr>
+
+<!-- TODO LIST -->
+<h2>To Do List</h2>
+
+<input type="text" id="taskInput" placeholder="Vazifa yozing">
+<button onclick="addTask()">Qo‘shish</button>
+
+<ul id="taskList"></ul>
+
+<hr>
+
+<!-- RANDOM COLOR -->
+<h2>Random Background</h2>
+<button onclick="randomColor()">Fon rangini o‘zgartir</button>
+
+<script src="script.js"></script>
+
+</body>
+</html>

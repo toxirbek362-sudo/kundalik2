@@ -1,0 +1,17 @@
+@import url(./font.css);
+:root {
+--color-background:#ffffff;
+--color-text:#333333;
+--color-primary: #4a90e2
+--color-secondary: #50e3c2;
+--font-family-base: 'Open Sans' , sans-serif
+--font-family-base: 16px;
+--spacing-base: 1rem;
+}
+
+*{
+--box-sizing: border-box;
+margin: 0;
+padding: 0;
+--text-derection: none;
+}   

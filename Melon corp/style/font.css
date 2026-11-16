@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'PB';
+    src: url(../font/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'PBI';
+    src: url(../font/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'PBO';
+    src: url(../font/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'PBOI';
+    src: url(../font/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'PEBO';
+    src: url(../font/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'PEBOI';
+    src: url(../font/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'PI';
+    src: url(../font/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'PM';
+    src: url(../font/Montserrat-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'PR';
+    src: url(../font/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'PSBO';
+    src: url(../font/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'PSBOI';
+    src: url(../font/Montserrat-Medium.ttf);
+}
